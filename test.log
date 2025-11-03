@@ -1,0 +1,12 @@
+2025-10-31 16:41:32,918 - INFO - Valid test case started
+2025-10-31 16:41:42,898 - ERROR - test case failed test2_soft_assert
+2025-10-31 16:41:47,188 - INFO - testing complete
+2025-10-31 16:52:18,664 - INFO - Valid test case started
+2025-10-31 16:52:28,760 - ERROR - test case failed test2_soft_assert
+2025-10-31 16:52:34,232 - INFO - testing complete
+2025-10-31 17:02:23,042 - INFO - Valid test case started
+2025-10-31 17:02:32,874 - ERROR - test case failed test2_soft_assert
+2025-10-31 17:02:37,269 - INFO - testing complete
+2025-10-31 17:20:04,403 - INFO - Valid test case started
+2025-10-31 17:20:14,395 - ERROR - test case failed test2_soft_assert
+2025-10-31 17:20:19,039 - INFO - testing complete
